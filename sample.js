@@ -7,6 +7,7 @@ function add_master2 (x, y){
 	return x + y;
 }
 
+werewW
 
 function add_test22 (x, y){
 	console.log(x);
